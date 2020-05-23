@@ -31,6 +31,7 @@ Why did I choose to come to RMIT?: The reason I chose to come to RMIT was becaus
 What did I expect to learn from my studies?: From my studies I was mainly hoping to obtain broad spectrum skills around IT, more specifically learning skills that revolve around all different areas of programming. 
 
 1.2	Group Processes
+For assignment 3 we have placed greater importance on version control by utilising GitHub to a greater degree. This will allow for greater tracking of changes and an ability to revert to previous work if required.
 
 1.3	Career Plans
 
