@@ -31,15 +31,17 @@ Why did I choose to come to RMIT?: The reason I chose to come to RMIT was becaus
 What did I expect to learn from my studies?: From my studies I was mainly hoping to obtain broad spectrum skills around IT, more specifically learning skills that revolve around all different areas of programming. 
 
 1.2	Group Processes
-For assignment 3 we have placed greater importance on version control by utilising GitHub to a greater degree. This will allow for greater tracking of changes and an ability to revert to previous work if required.
+From assignment 2 it was identified that we had no version control of our asssignment so for assignment 3 we placed greater importance on version control by utilising GitHub to a greater degree. This has allowed all members to store their work "off site", increase tracking of changes and an ability to revert to previous work if required. Also for assignment 2 communication was deemed to be an issue so, while planning for assignment 3, steps were proposed to help alleviate this issue by seeking out information from each member as to how often they think they would be able to make time to discuss the assignment and be available for video recording for assignent 5.
 
 1.3	Career Plans
 
+
 2	TOOLS
-Website link:
-Git repository link:
+Website link:https://group-a2-team-6.github.io/Intro-to-IT-A2-Team-6-Assignment-2/
+Git repository link:https://github.com/Group-A2-Team-6
 2.1	Git Repository Audit Trail Accuracy
-Text.
+
+
 3	PROJECT
 3.1	Overview
 Topic – Damian (1-2 paragraphs)
@@ -74,6 +76,8 @@ Time-frame – Andrew (1-2 paragraphs + plus table)
 Risks – Andrew (1-2 paragraph)
 
 Group Processes and Communications – Andrew (1-2 paragraph)
+
+
 
 4	SKILLS AND JOBS – ADAM (1-2 PARAGRAPHS)
 
