@@ -34,7 +34,37 @@ What did I expect to learn from my studies?: From my studies I was mainly hoping
 From assignment 2 it was identified that we had no version control of our asssignment so for assignment 3 we placed greater importance on version control by utilising GitHub to a greater degree. This has allowed all members to store their work "off site", increase tracking of changes and an ability to revert to previous work if required. Also for assignment 2 communication was deemed to be an issue so, while planning for assignment 3, steps were proposed to help alleviate this issue by seeking out information from each member as to how often they think they would be able to make time to discuss the assignment and be available for video recording for assignent 5.
 
 1.3	Career Plans
+Jack-
 
+Position:
+
+· My ideal job is a job as a Software Engineer at Google. This job requires you to develop software for the company and it will see you work with Google’s next generation software and hardware. I have always wanted to work at Google, and with an aspiration to be a software developer, this job is highly appealing to me. This position also comes with a good salary of approximately $109,368 AUD per year.
+
+Minimum Qualifications:
+
+· The minimum qualification required for the job is a Bachelor's degree in Computer Science or related degrees, or similar level of past experience.
+
+· 4 years of work experience in software development.
+
+· Experience and knowledge with C, C++, Java or Python.
+
+Preferred Qualifications:
+
+· The preferred qualification for the job is a Master’s degree or PhD in computer science or related degrees, or similar level of past experience.
+
+· Experience in two or more main stream programming languages such as C, C++, Java etc.
+
+· Strong interest in programming.
+
+· Excellent written and verbal communication skills.
+
+Current Qualifications: Currently
+
+· I do not meet any of the qualifications required for the job.
+
+Plan on how I will obtain the required qualifications:
+
+· To reach all the required qualifications, my plan is to first complete my Bachelor’s degree including all the minor studies with a GPA of at least 2.0 out of 4.0. Upon completion of my Bachelor’s degree, I aim to study my Master's Degree in Computer Science on a part time basis whilst working in an IT position at the same time. This will enable me to get the 4 years work experience required for the position. Once I have at least 4 years of work experience in a position in the field and have completed the Master’s degree, I will then have met the qualifications I feel are necessary for the job. · www.rmit.edu.au
 
 2	TOOLS
 Website link:https://group-a2-team-6.github.io/Intro-to-IT-A2-Team-6-Assignment-2/
