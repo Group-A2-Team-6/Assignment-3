@@ -35,9 +35,7 @@ From assignment 2 it was identified that we had no version control of our asssig
 
 1.3	Career Plans
 Jack-
-
 Position:
-
 · My ideal job is a job as a Software Engineer at Google. This job requires you to develop software for the company and it will see you work with Google’s next generation software and hardware. I have always wanted to work at Google, and with an aspiration to be a software developer, this job is highly appealing to me. This position also comes with a good salary of approximately $109,368 AUD per year.
 
 Minimum Qualifications:
@@ -66,13 +64,28 @@ Plan on how I will obtain the required qualifications:
 
 · To reach all the required qualifications, my plan is to first complete my Bachelor’s degree including all the minor studies with a GPA of at least 2.0 out of 4.0. Upon completion of my Bachelor’s degree, I aim to study my Master's Degree in Computer Science on a part time basis whilst working in an IT position at the same time. This will enable me to get the 4 years work experience required for the position. Once I have at least 4 years of work experience in a position in the field and have completed the Master’s degree, I will then have met the qualifications I feel are necessary for the job. · www.rmit.edu.au
 
-Damian-
-Position: 
+Damian- 
 Financial Planner/ Investment Analyst
 Although this career path is a far cry from my current employment, I feel over time I have acquired some of the skills necessary for a financial firm such as setting goals, meeting deadlines, communicating with others, oral and written skills, multitasking etc. These skills, coupled with a natural interest in finance, a mathematically driven mind, and an eagerness to learn more about the finance field, make employment in the finance sector a natural choice.
 Working in a large firm would likely require working in the CBD so ideally Brisbane or Sydney would be my ideal preferences with a small commute to work each day. With my current employment requiring routine and discipline I wouldn’t find it excessively different from that expected of a large finance corporation. 
 Although a change in career path at this stage would mean a drop in salary, by the time I switch jobs my wife will be back at work and all 3 children will be at school meaning we will be back on a dual income.
 I am currently half way through my Bachelor of Business Degree. The next half of the degree will take approximately another 3.5 years which will align with our youngest daughter starting kindergarten and my wife resuming full-time employment. Once I have finished my degree, and before I leave my current job I will seek out a Graduate investment analyst/ financial planner position where post grad experience in the field is desirable but not essential. Along with my business degree it will also be beneficial for me to have some experience with Microsoft Excel, so, unless already gained through my degree, I will also undertake an Excel course to brush up on my skills. Also, prior financially modelling experience is also often a requirement in the investment analyst field so I should also consider taking an additional subject that will give me this experience.
+
+Adam-
+An example of my ideal job in IT would be a software developer in the research and development field for and organisation such as Renault Sport Racing. This particular advertisement demands a candidate that can make results from varying modes of testing available to engineers in an organised and streamlined approach. Ultimately, this position would give me the opportunity to play a significant role in developing the car. Having the ability to contribute to a potential Formula 1 World Championship is what makes this position truly appealing to me.
+The skills that are required for the position include; exceptional proficiency in Python and JavaScript programming languages, as well as the ability to use a number of programs for building user interfaces. It is also a requirement of the candidate to be able to accommodate the real-time communication of data through libraries such as Socket.IO. No essential qualifications have been identified by the team. However, the applicant must have several years of experience in writing applications in a professional environment and a thorough knowledge of web databases.
+I currently do not possess any experience practicing software development professionally, nor do I possess any valid qualifications yet. Further, my skills in the appropriate coding languages and in online database services are very minimal. Any skills I have gained in this area have only come from nearly one month of study and casual experimentation in my own time.
+To obtain these skills I must, as a minimum, be an active participant in every area of my studies. Including not only the technical aspects, but also participating in the parts that will teach me to excel in a professional team-oriented environment. To make this position truly realistic to me however, I will have to practice my proficiency in creating my own projects outside of just the university, as well as keep up to date with all the relevant languages and systems as the IT field continues to grow and expand. Even though this particular position doesn’t require any specific qualifications, it is likely that similar jobs in the future will. This will drive me to gain as much accreditations as I can, starting with a university degree. Further, gaining as many possible qualifications will only hold me in good stead for any future prospects. Lastly, I will gain the experience needed over years of relevant professional work. This will start at entry level and include simple tasks such as maintaining, testing and debugging; and will grow into more complex projects. This technical experience will also be complimented by my growing confidence in a professional, team environment as a result.
+
+Shane-
+Cybersecurity Engineer
+
+Andrew-
+The desired position, Fleet Manager – Containers and General, is a management role based in Brisbane for a large multi-national company. It fits my experience in international freight, managing multiple sites with inventory, their own network of deliverables, and my experiences with large-volume cargo such as containers and irregular freight. It would require the applicant to manage operational and strategic goals, providing satisfaction in completion of tangible objectives, as well as significant higher-level strategy and process development, implementation and improvement. In addition, it is based in my home-town, ending a streak of 9-years of location work and it is with a well-known, reputable organization with room to climb. 
+The applicant needs developed analytical and logistical reasoning skills, high-level people management competencies, as well as significant expertise in supply chain network operation, analysis and design, particularly with heavy experience in multi-modal sea, road and rail freight. The applicant would have 15-20 years of industry experience, with proven experience in the role, although perhaps in a smaller-scale operation, and a Master of Logistics and Supply Chain Management. 
+This position is a 5-10-year goal for me; I have 10 years of industry experience, with 5 years of experience at a national level in operation, analysis and design of multi-million dollar supply chains, compared to billion-dollar supply chains operated by the Toll Group. I am, with luck, within 9 months of completing my Bachelor level qualification in Logistics and Supply Chain Management and already possess Diploma’s in Procurement and Supply and Workplace Health and Safety. 
+In the next 10 years I will work toward my goal through continued professional development. I will finish my Bachelors and after a period of 6-12 months, in which I will pay off my student debt, I will enrol in the Masters of Logistics and Supply Chain Management through RMIT. I will proceed with this at half pace, aiming to complete the Masters in 11 study periods, or 3 years. I will continue to seek professional challenges in my work, taking on activities I have not conducted before and setting ambitious objectives for the units under my purview. In the mean time I may seek employment in a company in which I believe I can advance my career prospects, either through exposure, reputation or experience, such as taking on a Project or State Procurement or Supply Chain Management role with a tier 1 company based in Australia.
+
 
 2	TOOLS
 Website link:https://group-a2-team-6.github.io/Intro-to-IT-A2-Team-6-Assignment-2/
@@ -173,7 +186,7 @@ In addition Github was used a lot more for file and version storage by the group
 
 5	REFLECTION
 5.1	Damian
-Test
+
 
 5.2	Shane
 
