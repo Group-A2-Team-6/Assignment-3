@@ -75,36 +75,24 @@ Git repository link:https://github.com/Group-A2-Team-6
 3	PROJECT
 3.1	Overview
 Topic – Damian (1-2 paragraphs)
-With 5 million recreational fishers in Australia, the sport of fishing remains relatively untouched when it comes to IT, specifically smart phone apps. The purpose of this project is to create a mobile based fishing app targeted at recreational fishermen for both IOS and Android systems and will be limited to Australian states and territories. The app will drive a social atmosphere and will include the ability to share photos and chat about fishing. 
-Aim: Increase the popularity of recreational fishing in Australia, make recreational fishing more socially oriented and, through sustainability and waste recovery, support the health of Australian waterways to ensure recreational fishing is kept alive well into the Australia’s future.
+The purpose of this project is to create a mobile based fishing app targeted at recreational fishermen for both IOS and Android systems and will be limited to Australian states and territories. The app will drive a social atmosphere and will include the ability to share photos and chat about fishing. 
+The aim of the app is to increase the popularity of recreational fishing in Australia, make recreational fishing more socially oriented and, through sustainability and waste recovery, support the health of Australian waterways to ensure recreational fishing is kept alive well into the Australia’s future.
 While also incorporating data from weather and tidal apps, the app will also be driven by data uploaded by recreational fishers in regards to what types of fish are caught in different locations, the best tide times when the fish have been caught and even recommended bait or tackle configurations.
 
 
 Motivation – Damian (1-2 paragraphs)
 There are 3 main motivations behind the project in bringing technology to the sport of fishing. The first of which is to make the sport become more socially focused, by linking various social media platforms to the app. The second is to increase fishing as a popular pastime by making successful fishing spots, methods, gear and times more established, especially beneficial in getting recreational fishers to take up the sport. The third reason for the push for technology is to collect and make data from the app available to assorted Australian agencies for the purpose of stocking of fish in certain areas based on the popularity, to the CSIRO (Commonwealth Scientific and Industrial Research Organisation) in order to gain an insight into fish populations and migrations over a long period of time, and to local governments for the purpose of the recovery of waste such as chemical drums, car tires and whitegoods from Australia’s water ways. 
-The current IT trends include the increase of mobile technology and the popularity of social media in the day-to-day lives of Australians. Technology is especially relevant to the sport of recreational fishing where people need to: use maps to search for fishing spots, google where to purchase bait and fishing equipment, purchase a fishing license depending on which state they live in, check to see what the weather and tides are like, look for tips on how to catch certain species of fish, and many other reasons. 
+The current IT trends include the increase of mobile technology and the popularity of social media in the day-to-day lives of Australians. Technology is especially relevant to the sport of recreational fishing where fishers need to: use maps to search for fishing spots, google where to purchase bait and fishing equipment, purchase a fishing license depending on which state they live in, check to see what the weather and tides are like, look for tips on how to catch certain species of fish, and many other reasons. 
 To work on this project would show to a future employer that we as individuals are able to both undertake individual research on a set topic and also work together as a group to compile a report while having an understanding of relevant IT software and methods.
 
+
 Landscape – Damian (1-2 paragraphs)
-There are numerous stand-alone apps on the market for:
-Social media
-Tides
-Weather
-Maps
-Lunar calendars
-Fish identification
-Fishing knots
-And many more applications.
+There are numerous stand-alone apps on the market for fishing related activities including: Social media, tides, weather, maps, lunar calendars, fish identification, fishing knots and many others.
+There are about 10 competitors in the market, the most popular of which, Fishbrain, has over 5 million users worldwide. With the most popular Australian apps having about 100,000 free and 10,000 subscribed users. 
+The main competitors for the app would be Fishbrain and Australian based apps: “Fishing points- Fishing app” and “Fishing spots”. Most of which feature similar functions such as 
+This app differs from the current apps due to the environmental and sustainable elements that no other apps currently offer, with the ability to report dumping and providing data to government agencies for sustainability. Additionally, what will set the app apart is ease of use, functionality and ability to link seamlessly with a wide range of social media platforms. The app will also be able to digitally hold current state drivers licences, fishing licences and marine licences and will also show the closest fishing tackle/ bait suppliers and operating hours something that the other apps don't do. 
+ 
 
-Of these apps, some are international and some are state specific. There are several fishing apps currently on the market, of which the main competitors would be Australian based apps: “Fishing points- Fishing app” and “Fishing spots”
-
-There are numerous fishing related apps on the market, with abilities like: 
-
-Will be aimed at new anglers, will provide videos and tips on fishing and how to set up a fishing rig.
--App will also have the ability for the user to store a digital version of their fishing/ boating/ national park licence.
--Integrated map showing closest fishing tackle/ bait suppliers and operating hours.
-There are about 10 main competitors in the market, the most popular of which, Fishbrain, has over 5 million users worldwide. With the most popular Australian apps having about 100,000 free and 10,000 subscribed users. Subscription costs for these apps are about $2.
-This app differs from the current apps due to the environmental and sustainable elements that no other apps currently offer, with the ability to report dumping and providing data to government agencies for sustainability. Additionally, what will set the app apart is ease of use, functionality and ability to link seamlessly with a wide range of social media platforms. The app will also be able to digitally hold current state drivers licences, fishing licences and marine licences, something that the other apps don't do.
 
 
 3.2	Detailed Description
