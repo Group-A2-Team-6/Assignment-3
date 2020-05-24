@@ -66,6 +66,14 @@ Plan on how I will obtain the required qualifications:
 
 · To reach all the required qualifications, my plan is to first complete my Bachelor’s degree including all the minor studies with a GPA of at least 2.0 out of 4.0. Upon completion of my Bachelor’s degree, I aim to study my Master's Degree in Computer Science on a part time basis whilst working in an IT position at the same time. This will enable me to get the 4 years work experience required for the position. Once I have at least 4 years of work experience in a position in the field and have completed the Master’s degree, I will then have met the qualifications I feel are necessary for the job. · www.rmit.edu.au
 
+Damian-
+Position: 
+Financial Planner/ Investment Analyst
+Although this career path is a far cry from my current employment, I feel over time I have acquired some of the skills necessary for a financial firm such as setting goals, meeting deadlines, communicating with others, oral and written skills, multitasking etc. These skills, coupled with a natural interest in finance, a mathematically driven mind, and an eagerness to learn more about the finance field, make employment in the finance sector a natural choice.
+Working in a large firm would likely require working in the CBD so ideally Brisbane or Sydney would be my ideal preferences with a small commute to work each day. With my current employment requiring routine and discipline I wouldn’t find it excessively different from that expected of a large finance corporation. 
+Although a change in career path at this stage would mean a drop in salary, by the time I switch jobs my wife will be back at work and all 3 children will be at school meaning we will be back on a dual income.
+I am currently half way through my Bachelor of Business Degree. The next half of the degree will take approximately another 3.5 years which will align with our youngest daughter starting kindergarten and my wife resuming full-time employment. Once I have finished my degree, and before I leave my current job I will seek out a Graduate investment analyst/ financial planner position where post grad experience in the field is desirable but not essential. Along with my business degree it will also be beneficial for me to have some experience with Microsoft Excel, so, unless already gained through my degree, I will also undertake an Excel course to brush up on my skills. Also, prior financially modelling experience is also often a requirement in the investment analyst field so I should also consider taking an additional subject that will give me this experience.
+
 2	TOOLS
 Website link:https://group-a2-team-6.github.io/Intro-to-IT-A2-Team-6-Assignment-2/
 Git repository link:https://github.com/Group-A2-Team-6
