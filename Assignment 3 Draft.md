@@ -89,8 +89,9 @@ To work on this project would show to a future employer that we as individuals a
 Landscape – Damian (1-2 paragraphs)
 There are numerous stand-alone apps on the market for fishing related activities including: Social media, tides, weather, maps, lunar calendars, fish identification, fishing knots and many others.
 There are about 10 competitors in the market, the most popular of which, Fishbrain, has over 5 million users worldwide. With the most popular Australian apps having about 100,000 free and 10,000 subscribed users. 
-The main competitors for the app would be Fishbrain and Australian based apps: “Fishing points- Fishing app” and “Fishing spots”. Most of which feature similar functions such as 
+The main competitors for the app would be Fishbrain and Australian based apps: “Fishing points- Fishing app” and “Fishing spots”. These apps all feature similar functions such as: a map indicating where fish have been caught, a social media feed, a weather forecast, the ability to upload a catch, a fish species database and a virtual tacklebox. 
 This app differs from the current apps due to the environmental and sustainable elements that no other apps currently offer, with the ability to report dumping and providing data to government agencies for sustainability. Additionally, what will set the app apart is ease of use, functionality and ability to link seamlessly with a wide range of social media platforms. The app will also be able to digitally hold current state drivers licences, fishing licences and marine licences and will also show the closest fishing tackle/ bait suppliers and operating hours something that the other apps don't do. 
+ 
  
 
 
