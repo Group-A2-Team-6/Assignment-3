@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Industry Data</title>
+<meta content="width=device-width"/>
+<link type="text/css" rel="stylesheet" href="styleo.css">
+<link href='https://fonts.googleapis.com/css?family=Calibri:400,700' rel='stylesheet' type='text/css'>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script> $(document).ready(function(){$("a").on('click', function(event) {if (this.hash !== "") {event.preventDefault(); var hash = this.hash; $('html, body').animate({scrollTop: $(hash).offset().top}, 800, function (){window.location.hash = hash;});}});});</script>
+</div>
+</head>
+
+<body>
+<div id="headerandnav">
+<header>
+<h1>Base Information Technologies - ePortfolio</h1>
+<h2>Andrew Fraser, Damian Dousset, Jack Wilson, Adam Matthews</h2>
+</header>
+<nav>
+<ul class="main_menu">
+<li><a href="index.html">Home</a></li>
+<li><a href="Profiles.html">Profiles</a></li>
+<li><a href="Industry Data.html">Industry Data</a></li>
+<li><a href="IT Work.html">IT Work</a></li>
+<li><a href="IT Technologies.html">IT Technologies</a></li>
+<li><a class="active" href="Skills and Jobs.html">Skills and Jobs</a></li>
+<li><a href="Team Project.html">Team Project</a></li>
+</ul>
+</nav>
+</div>
+<section>
+<ul id="navbar">
+<li><a href="#industrydata">Skills and Jobs</a></li>
+<li><a href="#references">References</a></li>
+</ul>
+</section>
+<section>
+<div id="industrydata">
+<h1>Skills and Jobs</h1>
+<p>An app with the proposed size and scope of iCatch requires a variety of different roles and skills within a team to efficiently and effectively develop the application. These include but are not limited to: user experience designers, business analysts, quality assurance testers and developers.</p>
+<p>Because we are presenting both a product and a brand, a user experience designer would be an essential addition to our team. UX designers are responsible for the overall accessibility of the app (Puolitaipale, T 2019). As recreational fishers come from all walks of life, an accessible and easy to operate interface is crucial. An ideal candidate for this position would be extremely team orientated as well as an innovative thinker.</p>
+<p>Business analysts serve as central links between forms of management, stakeholders, developers and customers (Tonex 2020). This role is necessary to articulate intricate and important information and then communicate it to the relevant people. While a candidate for this role is not an immediate priority within the team, it will become increasingly important as the brand and technicality of the product grow.</p>
+<p>Quality assurance testers are required to make certain that apps are ready to release to consumers (Job Hero 2020). Further it is their responsibility to continue debugging and testing programs as they continue to grow. This is the exact role that a QA tester will need assume in our team. As this role is so important and is requires close work with developers it will need someone with strong leadership qualities and interpersonal skills.</p>
+<p>Lastly, developers carry out the majority of the work in building the application. Developers are responsible for writing the code and are also encouraged to present and implement ideas (Puolitaipale, T 2019). Along with UX designers, the developers have the most important role in the creation and maintenance of the app. Both technical skills and the ability to work in a team will be most important qualities when looking for the ideal candidate. Such is the importance of their role in programming the app and within the wider team.</p>
+</div>
+<div id="references">
+<h1>References</h1>
+<p>JobHero, (n.d.), <i>QA Tester Job Description</i>, JobHero, viewed 25 May 2020, &lt;https://www.jobhero.com/qa-tester-job-description/&gt;</p>
+<p>Puolitaipale, T 2019, <i>How to Find the Perfect Team for Mobile Application Development</i>, Atimi, viewed 25 May 2020, &lt;https://www.atimi.com/the-roles-of-a-mobile-application-development-team/&gt;</p>
+<p>Tonex Training 2019, <i>Mobile Applications Business Analysis | Development Requirements</i>, Tonex Inc., viewed 25 May 2020, &lt;https://www.tonex.com/training-courses/mobile-applications-business-analysis/&gt;</p>
+</div>
+</section>
+<script>window.onscroll = function() {myFunction()};
+var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop;
+function myFunction() { if (window.pageYOffset >= sticky) {navbar.classList.add("sticky") } else {navbar.classList.remove("sticky");}}
+</script>
+</body>
+</html>
